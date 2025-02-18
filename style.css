@@ -14,13 +14,13 @@ canvas {
 	
 }
 
-# b{
+b{
 	width:392px;
 	height:60px;
 	margin:0px auto;
 	position: relative;
 }
-# pauserestart{
+pauserestart{
 	top: 610px;
 	left:451px;
 	position:absolute;
@@ -31,7 +31,7 @@ canvas {
 	
 	
 }
-# score{
+score{
 	top: 400px;
 	left:250px;
 	position:absolute;
@@ -39,90 +39,90 @@ canvas {
 	color: white;
 	
 }
-# valeurscore{
+valeurscore{
 	top: 400px;
 	left:350px;
 	position:absolute;
 	font-size : 25px;
 	color:white;
 }
-# etiqutteT{
+etiqutteT{
 	top: 300px;
 	left:1000px;
 	position:absolute;
 	font-size : 20px;
 	
 }
-# valeurTime{
+valeurTime{
 	top: 100px;
 	left:245px;
 	position:absolute;
 	font-size : 10px;
 }
-# mango{
+mango{
 	top: 150px;
 	left:350px;
 	position:absolute;
 	
 	
 }
-# mangocounter{
+mangocounter{
 	top: 150px;
 	left:300px;
 	position:absolute;
 	font-size : 25px;
 	color:white;
 }
-# avoca{
+avoca{
 	top: 199px;
 	left:350px;
 	position:absolute;
 	
 	
 }
-# avocacounter{
+avocacounter{
 	top: 199px;
 	left:300px;
 	position:absolute;
 	font-size : 25px;
 	color:white;
 }
-# bananes{
+bananes{
 	top: 250px;
 	left:350px;
 	position:absolute;
 	
 	
 }
-# bananescounter{
+bananescounter{
 	top: 250px;
 	left:300px;
 	position:absolute;
 	font-size : 25px;
 	color:white;
 }
-# orange{
+orange{
 	top: 299px;
 	left:350px;
 	position:absolute;
 	
 	
 }
-# orangecounter{
+orangecounter{
 	top: 299px;
 	left:300px;
 	position:absolute;
 	font-size : 25px;
 	color:white;
 }
-# lemon{
+lemon{
 	top: 350px;
 	left:350px;
 	position:absolute;
 	
 	
 }
-# lemoncounter{
+lemoncounter{
 	top: 350px;
 	left:300px;
 	position:absolute;
